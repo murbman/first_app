@@ -1,3 +1,7 @@
+# Ruby on Rails Tutorial: first application
+This is my first application on Ruby on Rails I have ever made. I am gona be so poud about myself.
+Check this out.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
